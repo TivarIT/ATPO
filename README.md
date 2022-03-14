@@ -1,2 +1,2 @@
-# ATPO
-Лабораторные по АТПО (PHPUnit, Selenium WebDriver, JUnit, TestNG и т.д.)
+# PHPUnit
+Лабораторная по АТПО (тема PHPUnit)
